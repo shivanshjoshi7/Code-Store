@@ -1,3 +1,5 @@
+//https://www.codechef.com/START12C/problems/MAKEDIV3
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
